@@ -1,3 +1,4 @@
 i have completed the puppet with git
 I got it !!!!
-thii is my ne w file
+thii is my new file
+I add a new line to trigger the bamboo build
