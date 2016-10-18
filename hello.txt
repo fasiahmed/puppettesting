@@ -2,3 +2,4 @@ i have completed the puppet with git
 I got it !!!!
 thii is my new file
 I add a new line to trigger the bamboo build
+I added more lines to check the bamboo build procedure
